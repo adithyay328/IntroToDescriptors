@@ -1,0 +1,5 @@
+# Ignore build artifacts
+build
+
+# Don't put images in the repo
+images
