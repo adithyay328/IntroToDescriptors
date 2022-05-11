@@ -1,4 +1,4 @@
-# IntroToDescriptors
+# IntroToDetectors
 This repo contains my implementations of some common edge detectors, as well as a from scratch implementation of the FAST detector.
 
 The FAST detector, while functional, doesn't support features like non-maximal suppression, and doens't support
